@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-18T23:05:53 EDT" name="Default suite" finished-at="2023-10-18T23:14:19 EDT" duration-ms="506492">
+    <groups>
+    </groups>
+    <test started-at="2023-10-18T23:05:53 EDT" name="Default test" finished-at="2023-10-18T23:14:19 EDT" duration-ms="506492">
+      <class name="com.ExcelRProject.AutomationProject_2.TestCases">
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:05:53 EDT" name="setUp_Browser" finished-at="2023-10-18T23:06:02 EDT" duration-ms="8754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="register_NewUser()[pri:1, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:02 EDT" name="register_NewUser" finished-at="2023-10-18T23:06:17 EDT" duration-ms="15114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_NewUser -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:17 EDT" name="setUp_Browser" finished-at="2023-10-18T23:06:20 EDT" duration-ms="3097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="login_ValidCredentials()[pri:2, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:20 EDT" name="login_ValidCredentials" finished-at="2023-10-18T23:06:30 EDT" duration-ms="10101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_ValidCredentials -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:30 EDT" name="setUp_Browser" finished-at="2023-10-18T23:06:34 EDT" duration-ms="3685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="login_InvalidCredentials()[pri:3, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:34 EDT" name="login_InvalidCredentials" finished-at="2023-10-18T23:06:41 EDT" duration-ms="7621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_InvalidCredentials -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:41 EDT" name="setUp_Browser" finished-at="2023-10-18T23:06:45 EDT" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="logoutUser_Verification()[pri:4, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:06:45 EDT" name="logoutUser_Verification" finished-at="2023-10-18T23:07:00 EDT" duration-ms="14589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser_Verification -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:00 EDT" name="setUp_Browser" finished-at="2023-10-18T23:07:04 EDT" duration-ms="4315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="register_ExistingEmailId()[pri:5, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:04 EDT" name="register_ExistingEmailId" finished-at="2023-10-18T23:07:12 EDT" duration-ms="8054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_ExistingEmailId -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:12 EDT" name="setUp_Browser" finished-at="2023-10-18T23:07:16 EDT" duration-ms="3557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="contactUs_Functionality()[pri:6, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:16 EDT" name="contactUs_Functionality" finished-at="2023-10-18T23:07:25 EDT" duration-ms="9087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs_Functionality -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:25 EDT" name="setUp_Browser" finished-at="2023-10-18T23:07:28 EDT" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="testCasesPage_Verification()[pri:7, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:28 EDT" name="testCasesPage_Verification" finished-at="2023-10-18T23:07:41 EDT" duration-ms="12772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasesPage_Verification -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:41 EDT" name="setUp_Browser" finished-at="2023-10-18T23:07:45 EDT" duration-ms="3747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="prodDetails_Verification()[pri:8, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:45 EDT" name="prodDetails_Verification" finished-at="2023-10-18T23:07:55 EDT" duration-ms="10513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prodDetails_Verification -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:55 EDT" name="setUp_Browser" finished-at="2023-10-18T23:07:59 EDT" duration-ms="3970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="search_Product()[pri:9, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:07:59 EDT" name="search_Product" finished-at="2023-10-18T23:08:11 EDT" duration-ms="11448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Product -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:11 EDT" name="setUp_Browser" finished-at="2023-10-18T23:08:15 EDT" duration-ms="3903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="subscription_inHomePage()[pri:10, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:15 EDT" name="subscription_inHomePage" finished-at="2023-10-18T23:08:20 EDT" duration-ms="5705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscription_inHomePage -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:20 EDT" name="setUp_Browser" finished-at="2023-10-18T23:08:24 EDT" duration-ms="4121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="subscription_inCartPage()[pri:11, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:24 EDT" name="subscription_inCartPage" finished-at="2023-10-18T23:08:35 EDT" duration-ms="10553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscription_inCartPage -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:35 EDT" name="setUp_Browser" finished-at="2023-10-18T23:08:39 EDT" duration-ms="3645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="addProducts_InCart()[pri:12, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:39 EDT" name="addProducts_InCart" finished-at="2023-10-18T23:08:56 EDT" duration-ms="17734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts_InCart -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:08:56 EDT" name="setUp_Browser" finished-at="2023-10-18T23:09:00 EDT" duration-ms="4052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="productQty_InCart()[pri:13, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:09:00 EDT" name="productQty_InCart" finished-at="2023-10-18T23:09:11 EDT" duration-ms="10820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productQty_InCart -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:09:11 EDT" name="setUp_Browser" finished-at="2023-10-18T23:09:15 EDT" duration-ms="4182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="placeOrder_Register_WhileCheckOut()[pri:14, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:09:15 EDT" name="placeOrder_Register_WhileCheckOut" finished-at="2023-10-18T23:09:50 EDT" duration-ms="34697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder_Register_WhileCheckOut -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:09:50 EDT" name="setUp_Browser" finished-at="2023-10-18T23:09:54 EDT" duration-ms="4217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="placeOrder_Register_BeforeCheckOut()[pri:15, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:09:54 EDT" name="placeOrder_Register_BeforeCheckOut" finished-at="2023-10-18T23:10:49 EDT" duration-ms="54725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder_Register_BeforeCheckOut -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:10:49 EDT" name="setUp_Browser" finished-at="2023-10-18T23:10:51 EDT" duration-ms="2345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="placeOrder_Login_BeforeCheckOut()[pri:16, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:10:51 EDT" name="placeOrder_Login_BeforeCheckOut" finished-at="2023-10-18T23:11:16 EDT" duration-ms="24712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder_Login_BeforeCheckOut -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:16 EDT" name="setUp_Browser" finished-at="2023-10-18T23:11:20 EDT" duration-ms="3794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="remove_ProdFromCart()[pri:17, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:20 EDT" name="remove_ProdFromCart" finished-at="2023-10-18T23:11:30 EDT" duration-ms="9940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove_ProdFromCart -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:30 EDT" name="setUp_Browser" finished-at="2023-10-18T23:11:33 EDT" duration-ms="3291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="verify_CatogoryOfProducts()[pri:18, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:33 EDT" name="verify_CatogoryOfProducts" finished-at="2023-10-18T23:11:45 EDT" duration-ms="12103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_CatogoryOfProducts -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:45 EDT" name="setUp_Browser" finished-at="2023-10-18T23:11:49 EDT" duration-ms="3437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="verify_BrandOfProducts()[pri:19, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:11:49 EDT" name="verify_BrandOfProducts" finished-at="2023-10-18T23:12:00 EDT" duration-ms="11125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_BrandOfProducts -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:00 EDT" name="setUp_Browser" finished-at="2023-10-18T23:12:04 EDT" duration-ms="3633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="searchProducts_VerifyCartAfterLogin()[pri:20, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:04 EDT" name="searchProducts_VerifyCartAfterLogin" finished-at="2023-10-18T23:12:25 EDT" duration-ms="21591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProducts_VerifyCartAfterLogin -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:25 EDT" name="setUp_Browser" finished-at="2023-10-18T23:12:29 EDT" duration-ms="3625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="addReview_OnProdudct()[pri:21, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:29 EDT" name="addReview_OnProdudct" finished-at="2023-10-18T23:12:39 EDT" duration-ms="10129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReview_OnProdudct -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:39 EDT" name="setUp_Browser" finished-at="2023-10-18T23:12:42 EDT" duration-ms="3001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="addToCart_FromRecommendedItems()[pri:22, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:42 EDT" name="addToCart_FromRecommendedItems" finished-at="2023-10-18T23:12:55 EDT" duration-ms="13593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart_FromRecommendedItems -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:55 EDT" name="setUp_Browser" finished-at="2023-10-18T23:12:58 EDT" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="addressDetails_verification()[pri:23, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:12:58 EDT" name="addressDetails_verification" finished-at="2023-10-18T23:13:24 EDT" duration-ms="25099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addressDetails_verification -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:13:24 EDT" name="setUp_Browser" finished-at="2023-10-18T23:13:27 EDT" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="downloadInvoice_AfterOrder()[pri:24, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:13:27 EDT" name="downloadInvoice_AfterOrder" finished-at="2023-10-18T23:13:56 EDT" duration-ms="28183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadInvoice_AfterOrder -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:13:56 EDT" name="setUp_Browser" finished-at="2023-10-18T23:14:00 EDT" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="scrollUpArrowButton_Verification()[pri:25, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:14:00 EDT" name="scrollUpArrowButton_Verification" finished-at="2023-10-18T23:14:08 EDT" duration-ms="8574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollUpArrowButton_Verification -->
+        <test-method is-config="true" signature="setUp_Browser()[pri:0, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:14:08 EDT" name="setUp_Browser" finished-at="2023-10-18T23:14:12 EDT" duration-ms="3797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp_Browser -->
+        <test-method signature="scrollUpAndScrolldown_Functionality()[pri:26, instance:com.ExcelRProject.AutomationProject_2.TestCases@202b0582]" started-at="2023-10-18T23:14:12 EDT" name="scrollUpAndScrolldown_Functionality" finished-at="2023-10-18T23:14:19 EDT" duration-ms="7313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollUpAndScrolldown_Functionality -->
+      </class> <!-- com.ExcelRProject.AutomationProject_2.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
